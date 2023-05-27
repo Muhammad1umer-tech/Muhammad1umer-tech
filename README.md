@@ -1,39 +1,38 @@
-<h1 align="center">Hi there, I'm Muhammad Umer</h1>
-<h3 align="center">Passionate React Developer | Software Engineer</h3>
 
-<p align="center">
-  <img src="[Add a unique profile picture here]" alt="Profile Picture" width="200" height="200">
+<h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
+<h3 align="center">A passionate Flutter developer and Software Engineer.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad1umer-tech&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad1umer-tech" /> </p>
+
+- 🌱 I’m currently learning *Flutter, Advance Data Structures & Algorithms.*
+
+- 👨💻 All of my projects are available at [https://github.com/Muhammad1umer-tech](https://github.com/Muhammad1umer-tech)
+
+- 💬 Ask me about *FLutter, Data Structures.*
+
+- 📫 How to reach me *mumertrade8@gmail.com*
+
+- 📄 Know about my Resume [file:///C:/Users/S.M/Pictures/MUmer.pdf](file:///C:/Users/S.M/Pictures/MUmer.pdf)
+
+- ⚡ Hobby *I like boxing and skipping.*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-umer-556222236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-umer-556222236/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19123106/m-umer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19123106/m-umer" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/umer_codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/umer_codes/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/muhammad1umer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="muhammad1umer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@mumertrade8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mumertrade8" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mumertrade8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mumertrade8" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mumertrade8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mumertrade8" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:mumertrade8@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/muhammad-umer-556222236/">LinkedIn</a> •
-  <a href="https://github.com/Muhammad1umer-tech">GitHub</a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="center">I'm a passionate React developer and software engineer with expertise in JavaScript, ReactJS, React Native, Next.js, Java, and more. I love building innovative web and mobile applications that deliver exceptional user experiences.</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad1umer-tech&show_icons=true&locale=en&layout=compact" alt="muhammad1umer-tech" /></p>
 
-<p align="center">
-  🌱 Currently learning: Java, JavaScript, ReactJS, React Native, Next.js
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad1umer-tech&show_icons=true&locale=en" alt="muhammad1umer-tech" /></p>
 
-<p align="center">
-  💼 Check out my projects on <a href="https://github.com/Muhammad1umer-tech">GitHub</a>
-</p>
-
-<h3 align="center">Technical Skills:</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40" title="ReactJS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40" title="React Native">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" title="React Native">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" title="Next.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java">
-</p>
-
-<p align="center">I'm always looking for exciting opportunities to work on challenging projects and collaborate with like-minded developers. Feel free to reach out to me via email at mumertrade8@gmail.com.</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad1umer-tech&layout=compact" alt="Top Languages" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad1umer-tech&" alt="muhammad1umer-tech" /></p>
