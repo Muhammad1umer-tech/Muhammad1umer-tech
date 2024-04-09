@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Umer</h1>
-<h3 align="center">Passionate React Developer | Software Engineer</h3>
+<h3 align="center">Passionate Python Developer | Data Engineer </h3>
 
 <p align="center">
   <img src="[Add a unique profile picture here]" alt="Profile Picture" width="200" height="200">
@@ -15,21 +15,20 @@
 
 ### About Me
 
-I'm a passionate React developer and software engineer with expertise in JavaScript, ReactJS, React Native, Next.js, Java, and more. I love building innovative web and mobile applications that deliver exceptional user experiences.
+I'm a passionate Python Developer and Data Engineer with expertise in Python, Django, Flask, RestAPI, FastAPI, JavaScript, ReactJS, Docker, Kubernetes, Git, Cloud, Data pipelines, Azure BlobStorage, Azure DataFactory, Azure Databricks, PySpark, Hadoop, Hive. I love solving complex AI and data-driven problems.
 
-- 🔭 I’m currently working on improving my skills in ReactJS and Next.js.
-- 🌱 I’m currently learning Java, JavaScript, ReactJS, React Native, Next.js.
-- 👯 I’m looking to collaborate on open source projects related to ReactJS.
+- 🔭 I’m currently working as an Intern Python Engineer at The Hexaa.
+- 🌱 working on Django, RestAPI, and Javascript.
+- 👯 I’m looking to collaborate on open-source projects related to Python and Data Engineer.
 - 💼 Check out my projects on [GitHub](https://github.com/Muhammad1umer-tech).
 
 ---
 
 ### Skills
 
-- Programming Languages: JavaScript, Java
-- Front-end: ReactJS, React Native, HTML, CSS
-- Frameworks: Next.js
-- Databases: MySQL
+- Programming Languages: Python, C++, JavaScript, Dart
+- Cloud: Microsoft Azure
+- BackEnd: Django, Flask.
 - Version Control: Git
 
 ---
@@ -38,9 +37,9 @@ I'm a passionate React developer and software engineer with expertise in JavaScr
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/Muhammad1umer-tech/project1): Description of project 1.
-- [Project 2](https://github.com/Muhammad1umer-tech/project2): Description of project 2.
-- [Project 3](https://github.com/Muhammad1umer-tech/project3): Description of project 3.
+- [Project 1](https://github.com/Muhammad1umer-tech/Tokyo-Olympic-Microsoft-Azure): Description of project 1.
+- [Project 2](https://github.com/Muhammad1umer-tech/ChestXGPT-Reports-Preprocessing): Description of project 2.
+- [Project 3](https://github.com/Muhammad1umer-tech/SQL_Music_Store_Analysis): Description of project 3.
 
 ---
 
