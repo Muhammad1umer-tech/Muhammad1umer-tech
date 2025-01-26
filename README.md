@@ -6,6 +6,7 @@
 
 I'm a Python & Cloud Engineer ☁️ building infrastructures.
 My primary focus is on AWS, Teraform, and Python.
+Right now, i am working as a Python & DevOps engineer.
 
 #### ⚒️ Technologies & Tools
 
