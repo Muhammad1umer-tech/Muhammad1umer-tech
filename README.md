@@ -8,6 +8,7 @@ I'm a Python & Cloud Engineer ☁️ building infrastructures.
 My primary focus is on AWS, Terraform, and Python.  
 Right now, I am working as a Python & DevOps engineer.
 
+
 #### ⚒️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazonaws&logoColor=white&color=007CF0)
