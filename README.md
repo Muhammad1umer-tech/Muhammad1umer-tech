@@ -5,7 +5,7 @@
 # Hi, I'm Umer!!!
 
 I'm a Python & Cloud Engineer ☁️ building infrastructures.  
-My primary focus is on AWS, Terraform, and Python.  
+My primary focus is on AWS, Terraform, and Python
 Right now, I am working as a Python & DevOps engineer.
 
 
