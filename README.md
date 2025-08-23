@@ -2,9 +2,9 @@
   <img src="./assets/background.jpeg" alt="Background" width="100%" />
 </p>
 
-# Hi, I'm Umer!!!
+# Hi, I'm Umer!
 
-I'm a Cloud, cloud OPs Engineer ☁️ building, monitoring and managing infrastructures.  
+I'm a Cloud, cloud Ops Engineer ☁️ building, monitoring and managing infrastructures.  
 My primary focus is on AWS, Azure Terraform, Jenkins, Github Actions and Python
 Right now, I am working as a cloud platform engineer.
 
