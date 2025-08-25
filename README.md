@@ -33,8 +33,7 @@ Cloud / CloudOps Engineer ☁️ – Building, monitoring, and managing cloud in
 ### 🚀 Projects
 
 - **Terraform AWS Project with Jenkins** – [Link](https://github.com/Muhammad1umer-tech/terraform-aws-jenkins-project)  
-- **Monolithic RAG Deployment with AWS Services** – [Link](https://github.com/Muhammad1umer-tech/AWS-CustomPostgresRAG)  
-- **AWS Scalable Project** – [Link](https://github.com/Muhammad1umer-tech/AWS-ScalableProject)  
+- **Monolithic RAG Deployment with AWS Services** – [Link](https://github.com/Muhammad1umer-tech/AWS-CustomPostgresRAG)   
 
 
 #### 📲 Contact Information
