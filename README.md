@@ -4,10 +4,11 @@
 
 # Hi, I'm Umer!
 
-I'm a Cloud, cloud Ops Engineer ☁️ building, monitoring and managing infrastructures.  
-My primary focus is on AWS, Azure Terraform, Jenkins, Github Actions and Python
-Right now, I am working as a cloud platform engineer.
+Cloud / CloudOps Engineer ☁️ – Building, monitoring, and managing cloud infrastructures.
 
+🔹 Currently preparing for Microsoft AZ-104 certification
+🔹 Primary focus: AWS, Azure, Terraform, Jenkins, GitHub Actions, and Python
+🔹 Working as a Cloud Platform Engineer, driving automation, scalability, and reliability in cloud environments
 
 #### ⚒️ Technologies & Tools
 
@@ -24,6 +25,11 @@ Right now, I am working as a cloud platform engineer.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=007CF0)
 ![](https://img.shields.io/badge/Programming-Python-informational?style=flat-square&logo=python&logoColor=white&color=007CF0)
+![](https://img.shields.io/badge/Backend-Django-informational?style=flat-square&logo=django&logoColor=white&color=092E20)
+
+![](https://img.shields.io/badge/Linux-Administration-informational?style=flat-square&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Networking-Cisco-informational?style=flat-square&logo=cisco&logoColor=white&color=1BA0E2)
+
 
 #### 📲 Contact Information
 
