@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Microsoft+365+%26+Azure+Administrator;AZ-104+%7C+CompTIA+A%2B+Certified;IT+Support+%7C+Help+Desk+%7C+Jr.+Sysadmin;Based+in+Ontario%2C+Canada+%F0%9F%8D%81" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Muhammad1umer-tech&label=Profile+views&color=6E40C9&style=flat" />
-
 </div>
 
 ---
@@ -111,45 +107,6 @@ Phone   : 437-855-2924
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad1umer-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9" height="175" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad1umer-tech&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad1umer-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" width="500" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad1umer-tech&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=ffffff&area=true" width="100%" />
-
----
-
-### 🏅 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad1umer-tech&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [**Terraform AWS + Jenkins**](https://github.com/Muhammad1umer-tech/terraform-aws-jenkins-project) | Infrastructure as Code pipeline — automated AWS provisioning with Terraform and Jenkins CI/CD |
-| [**Monolithic RAG on AWS**](https://github.com/Muhammad1umer-tech/AWS-CustomPostgresRAG) | Production RAG deployment on AWS using PostgreSQL as the vector store |
-| **SharePoint Migration 1.5TB** | KOOFR → SharePoint Online under Zero Trust · Veeam + Azure Blob backup · 30-day recovery |
-| **Azure Governance Architecture** | Entra ID · RBAC · NSGs · Azure Monitor · compliance policies across enterprise environments |
 
 ---
 
