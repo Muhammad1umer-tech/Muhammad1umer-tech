@@ -1,160 +1,191 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a0a1a,100:001a00&height=220&section=header&text=%3E_%20MUHAMMAD%20UMER&fontSize=52&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=IT%20Support%20Specialist%20%7C%20AZ-104%20%7C%20CompTIA%20A%2B&descSize=17&descAlignY=62&descColor=4D9DFF" />
+
+<br/>
+
 <div align="center">
-  <img src="./assets/background.jpeg" alt="Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=640&height=90&lines=~%2F%24+whoami+%E2%86%92+Muhammad+Umer;~%2F%24+cat+status.log+%E2%86%92+%5BOPEN+TO+WORK%5D+%E2%9C%93;~%2F%24+ls+certs%2F+%E2%86%92+AZ-104+%7C+CompTIA-A%2B" alt="Typing SVG" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Muhammad1umer-tech&label=Profile+Views&color=00FF41&style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ontario-Canada_%F0%9F%8D%81-00FF41?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-OPEN%20TO%20WORK-00FF41?style=flat-square&labelColor=0D1117" />
+</div>
+
+<br/>
+
+---
+
+## `$ cat about.txt`
+
+```diff
++ NAME      →  Muhammad Umer
++ LOCATION  →  Ontario, Canada
++ ROLE      →  IT Support Specialist  |  Cloud & Infrastructure Engineer
++ EMAIL     →  umer.cloud0@gmail.com
++ PHONE     →  437-855-2924
++ STATUS    →  OPEN TO WORK  —  IT Support | Help Desk | Jr. Systems Administration
++ EDUCATION →  BSc Computer Sciences  —  University of Central Punjab
+# -----------------------------------------------------------------------
+# Turns unstructured, insecure IT environments into governed, reliable ops.
+# Core: Microsoft 365 Administration · Azure Cloud · End-User Support
+```
+
+---
+
+## `$ ls -la certs/`
+
+```diff
++ [VERIFIED]  AZ-104     →  Microsoft Azure Administrator Associate   ✓ EARNED
++ [VERIFIED]  CompTIA A+ →  CompTIA A+ Certified                      ✓ EARNED
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--104_Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CompTIA-A%2B_Certified-C8202E?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0D1117" />
+</p>
+
+---
+
+## `$ tree skills/ --all`
+
+```
+skills/
+├── 📁 microsoft-365/
+│   └── Entra ID · Exchange Online · SharePoint Online · Teams · OneDrive
+│       RBAC · MFA · IAM · Security & Compliance · User Provisioning
+│
+├── 📁 cloud-azure/
+│   └── Virtual Machines · Networking · Storage Accounts · Azure Policy
+│       Monitor · Log Analytics · Key Vault · Landing Zones · AWS
+│
+├── 📁 it-support/
+│   └── Windows 10/11 · Active Directory · GPO · Help Desk · MDM
+│       Hyper-V · VMware · Data Migration · Veeam Backup · Onboarding
+│
+├── 📁 networking/
+│   └── TCP/IP · DNS · DHCP · VLANs · VPN · Wi-Fi · Access Points
+│       Firewall Fundamentals · Subnetting · OSI Model
+│
+└── 📁 devops-infra/
+    └── Terraform · GitHub Actions · Jenkins · Docker · Python · Bash · Linux
+```
+
+<div align="center">
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,docker,linux,python,bash,github,git,jenkins,vscode&perline=6" />
+
+  <br/>
+</div>
+
+---
+
+## `$ git log --experience --format=full`
+
+```diff
++ commit [Jan 2026 → PRESENT]
++ Author: Muhammad Umer
++ Role:   IT Support Specialist @ First Option Millwork and Fine Cabinets
++ Loc:    North York, Ontario, Canada
+
+    ✓ Inherited ZERO governance — no policies, shared credentials, zero incident response
+    ✓ Recovered domain registration, M365, email services, cloud & vendor accounts
+    ✓ Resolved full Mailbox + domain outage; enforced MFA, removed legacy device access
+    ✓ DeFederated M365 from GoDaddy → Microsoft-managed (Entra ID + MDM + domain-join)
+    ✓ Migrated all company data → SharePoint Online + automated Veeam backups
+    ✓ Administered Autodesk, Foxit Editor, Rhino3D licensing
+    ✓ Daily Help Desk: Windows, M365, Outlook, Teams, printers, networking, hardware
+
++ commit [Jan 2024 → Mar 2025]
++ Author: Muhammad Umer
++ Role:   IT Engineer @ The Hexaa, Pakistan
+
+    ✓ Deployed physical servers: disk partitioning, IP addressing, network segmentation
+    ✓ Automated infra with Terraform, Azure services, and CI/CD pipelines
+    ✓ Led Azure governance: Entra ID, RBAC, NSGs, monitoring, compliance policies
+    ✓ Migrated 1.5TB KOOFR → SharePoint Online under Zero Trust + MFA
+    ✓ Backup: Veeam Community + Azure Blob Storage (Cool tier), 30-day recovery
+```
+
+---
+
+## `$ ls -la projects/`
+
+```
+ PERMISSIONS    PROJECT                                  STACK                     IMPACT
+ ──────────────────────────────────────────────────────────────────────────────────────────
+ drwxr-xr-x    physical-infra-m365-implementation/      Server · Exchange · RBAC  ★★★★★
+ drwxr-xr-x    azure-governance-security-architecture/  Entra ID · RBAC · NSG     ★★★★★
+ drwxr-xr-x    sharepoint-migration-1.5TB/              KOOFR→SPO · Veeam · Blob  ★★★★★
+ drwxr-xr-x    terraform-aws-jenkins-project/           Terraform · AWS · Jenkins  ★★★★☆
+ drwxr-xr-x    monolithic-rag-aws/                      AWS · PostgreSQL · Python  ★★★★☆
+```
+
+<p align="center">
+  <a href="https://github.com/Muhammad1umer-tech/terraform-aws-jenkins-project">
+    <img src="https://img.shields.io/badge/→_Terraform_AWS_+_Jenkins-Open_Repo-00FF41?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Muhammad1umer-tech/AWS-CustomPostgresRAG">
+    <img src="https://img.shields.io/badge/→_Monolithic_RAG_on_AWS-Open_Repo-00FF41?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
+
+---
+
+## `$ system --metrics`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad1umer-tech&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41&count_private=true" height="168" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad1umer-tech&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" height="168" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0078D4&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Muhammad+Umer+%F0%9F%91%8B;IT+Support+Specialist+%7C+AZ-104+%7C+CompTIA+A%2B;Microsoft+365+%26+Azure+Administrator;Cloud+%26+Infrastructure+Engineer" alt="Typing SVG" />
+  <img src="https://streak-stats.demolab.com?user=Muhammad1umer-tech&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=4D9DFF&dates=c9d1d9&stroke=00FF4140" width="520" />
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍-Ontario%2C_Canada-0078D4?style=for-the-badge" />
-  &nbsp;
-  <a href="mailto:umer.cloud0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-umer.cloud0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_to_Work-IT_Support_|_Help_Desk_|_Sysadmin-2D9C4C?style=for-the-badge" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-Customer-focused **IT Support Specialist** and **Cloud Engineer** based in Ontario, Canada. I specialize in Microsoft 365 administration, Azure cloud infrastructure, and end-user support — turning chaotic, unstructured IT environments into secure, reliable, and well-documented operations.
-
-- 🏢 **Currently:** IT Support Specialist @ First Option Millwork and Fine Cabinets, North York
-- 🏆 **Certified:** Microsoft AZ-104 (Azure Administrator Associate) & CompTIA A+
-- 🎓 **Education:** BSc Computer Sciences — University of Central Punjab
-- 🎯 **Seeking:** IT Support · Help Desk · Desktop Support · Junior Systems Administration
-
----
-
-## 🏆 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-AZ--104_Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CompTIA-A%2B_Certified-C8202E?style=for-the-badge&logo=comptia&logoColor=white" />
-</p>
-
----
-
-## ⚒️ Skills & Technologies
-
-**Microsoft 365 & Identity**
-
-![](https://img.shields.io/badge/Microsoft_365-Administration-0078D4?style=flat-square&logo=microsoft365&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Entra_ID-IAM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/Exchange_Online-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
-![](https://img.shields.io/badge/SharePoint_Online-Collaboration-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Teams-Communication-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
-![](https://img.shields.io/badge/OneDrive-Storage-0078D4?style=flat-square&logo=microsoftonedrive&logoColor=white)
-![](https://img.shields.io/badge/RBAC-Access_Control-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/MFA-Security-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-**Cloud & Azure**
-
-![](https://img.shields.io/badge/Azure-Virtual_Machines-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/Azure-Networking-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/Azure-Storage_Accounts-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/Azure-Monitor_%26_Log_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/Azure-Key_Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/Azure-Landing_Zones-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**IT Support & Windows Administration**
-
-![](https://img.shields.io/badge/Windows_10/11-Administration-0078D4?style=flat-square&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Active_Directory-Domain_Services-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/Group_Policy-GPO-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/MDM-Device_Management-007CF0?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/Help_Desk-End_User_Support-2D9C4C?style=flat-square&logo=statuspage&logoColor=white)
-![](https://img.shields.io/badge/Data_Migration_%26_Backup-Veeam-007CF0?style=flat-square&logo=veeam&logoColor=white)
-![](https://img.shields.io/badge/Hyper--V_%7C_VMware-Virtualization-607078?style=flat-square&logo=vmware&logoColor=white)
-
-**Networking**
-
-![](https://img.shields.io/badge/TCP/IP_|_DNS_|_DHCP-Protocols-1BA0E2?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/VLANs_%7C_VPN-Segmentation-1BA0E2?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/Wi--Fi_%7C_Access_Points-Wireless-1BA0E2?style=flat-square&logo=wifi&logoColor=white)
-![](https://img.shields.io/badge/Firewall_Fundamentals-Security-1BA0E2?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/Subnetting_%7C_OSI_Model-Networking-1BA0E2?style=flat-square&logo=cisco&logoColor=white)
-
-**DevOps & Infrastructure**
-
-![](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![](https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Linux-Administration-FCC624?style=flat-square&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Bash-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
----
-
-## 💼 Experience
-
-### 🏢 First Option Millwork and Fine Cabinets &nbsp;·&nbsp; *IT Support Specialist*
-`Jan 2026 – Present` &nbsp;|&nbsp; North York, ON, Canada
-
-Inherited a completely unstructured IT environment with zero governance and rebuilt it from the ground up:
-
-- Recovered access to all critical business systems: domain registration, Microsoft 365, email, cloud platforms, and vendor accounts. Implemented centralized password management.
-- Resolved a full **Mailbox & domain outage** — investigated domain suspension, enforced MFA, removed legacy device access, and hardened M365 security posture.
-- **DeFederated M365** from GoDaddy-managed email to Microsoft-managed, enabling Entra ID integration, domain-joined workstations, and MDM deployment.
-- Migrated company data to **SharePoint Online** with automated backup for SharePoint and M365 mailboxes.
-- Procured and administered **Autodesk, Foxit Editor, Rhino3D** licensing and supported users with installation and troubleshooting.
-- Daily Help Desk support: Windows, Microsoft 365, Outlook, Teams, OneDrive, SharePoint, printers, networking, and hardware.
-
----
-
-### 🏢 The Hexaa &nbsp;·&nbsp; *IT Engineer*
-`Jan 2024 – March 2025` &nbsp;|&nbsp; Pakistan
-
-- Deployed physical servers, provisioned user accounts, configured network connectivity, installed access points, and enforced security and access control standards.
-- Automated infrastructure deployment and workflows with **Terraform, Azure services, and CI/CD pipelines**.
-- Led Azure cloud security and governance: **Entra ID, RBAC, NSGs, monitoring, and compliance policies** across client environments.
-
----
-
-## 🚀 Projects
-
-| Project | Highlights |
-|---|---|
-| **Physical Infrastructure & M365 Implementation** | Server setup with disk partitioning, RBAC provisioning, Exchange Online, SharePoint workflows, Microsoft Planner & Teams |
-| **Enterprise Azure Governance & Security Architecture** | Entra ID, RBAC, NSGs, Azure Monitor, audit visibility, and compliance policies across enterprise Azure environments |
-| **1.5TB SharePoint Migration + Secure Backup** | KOOFR → SharePoint Online under Zero Trust & MFA; Veeam + Azure Blob Storage (Cool tier) with 30-day recovery and 3-2-1 compliance |
-| **Terraform AWS Project with Jenkins** | [→ View on GitHub](https://github.com/Muhammad1umer-tech/terraform-aws-jenkins-project) |
-| **Monolithic RAG Deployment with AWS** | [→ View on GitHub](https://github.com/Muhammad1umer-tech/AWS-CustomPostgresRAG) |
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad1umer-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad1umer-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad1umer-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad1umer-tech&bg_color=0D1117&color=00FF41&line=00FF41&point=4D9DFF&area=true&area_color=00FF4115&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## 📲 Connect with Me
+## `$ github --trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad1umer-tech&theme=matrix&no-frame=true&column=6&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+## `$ connect --open-channels`
+
+```diff
++ EMAIL     →  umer.cloud0@gmail.com
++ GITHUB    →  github.com/Muhammad1umer-tech
++ LINKEDIN  →  [ add your LinkedIn URL here ]
++ PHONE     →  437-855-2924
+```
 
 <p align="center">
   <a href="mailto:umer.cloud0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-umer.cloud0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/→_Email-umer.cloud0%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/muhammad-umer-cloud">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/→_LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:0a0a1a,100:0D1117&height=130&section=footer&text=%5B+EOF+%5D&fontSize=22&fontColor=00FF41&animation=twinkling&fontAlignY=65" />
