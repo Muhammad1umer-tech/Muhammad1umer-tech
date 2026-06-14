@@ -42,6 +42,6 @@ When working in this repository, Claude operates as a combination of three roles
 ## Content Guidelines
 
 - Shields are sourced from `shields.io` using the `flat-square` style with `color=007CF0` (blue) for cloud/CI tools and accent colors for others (e.g., `7B42BC` for Terraform, `FCC624` for Linux)
-- The background image is referenced as `./assets/background.jpeg` with `width="100%"` inside a centered `<p>` tag
+- The background image is referenced as `./assets/background.png` with `width="100%"` inside a centered `<p>` tag
 - New projects should follow the existing bullet format: `**Title** – [Link](url)`
 - Avoid adding sections that aren't already present unless explicitly requested
